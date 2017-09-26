@@ -1,3 +1,7 @@
 *.csv
 *.pkl
 *.ods
+*.json
+*.xlsx
+*.xls
+*.xml
